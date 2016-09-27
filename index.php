@@ -6,3 +6,4 @@
  * Time: 22:56
  */
 echo 'Hello GitHub users!';
+echo 'This is second commit';
