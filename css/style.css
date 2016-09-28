@@ -1,0 +1,42 @@
+.uslugi{
+    padding-left: 35px;
+}
+#result{
+    display: inline;
+    color:red;
+}
+.calc{
+    padding: 35px 40px;
+}
+.itext{
+    padding-left: 65px;
+    margin-top:10px
+}
+.cars{
+    margin-top:10px
+}
+.car i{
+    margin-left: 15px;
+    width: 56px;
+    height: 33px;
+    background: url(http://avtostroigrad.ru/themes/sapodilla/img/icon_calculator.png) no-repeat;
+    background-position: 0px -33px;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+.contaner i{
+    margin-left: 15px;
+    width: 56px;
+    height: 33px;
+    background: url(http://avtostroigrad.ru/themes/sapodilla/img/icon_calculator.png) no-repeat;
+    background-position: -62px 0;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
